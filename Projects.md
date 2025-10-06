@@ -12,21 +12,21 @@ title: Projects
 
   <br>
 
-  ## Jekyll Github Project
+  <strong>Jekyll Github Project</strong><br>
   This first assignment required me to use jekyll themes to import into github pages. 
   I learned how to create a new repo and new files, and create new pages for my website.
 
-  ---
+  <hr>
 
-  ## About the Project
-  This project was built using **Jekyll** and hosted on **GitHub Pages**.  
+  <strong>About the Project</strong><br>
+  This project was built using <strong>Jekyll</strong> and hosted on <strong>GitHub Pages</strong>.  
   I’m using the `minima` theme for a clean and minimalist look. 
 
-  ---
+  <hr>
 
-  ## Repository Info
-  - GitHub Repo: [brianlimtt/TER](https://github.com/brianlimtt/TER)
-  - Author: **Brian Lim**
+  <strong>Repository Info</strong><br>
+  - GitHub Repo: <a href="https://github.com/brianlimtt/TER" target="_blank">brianlimtt/TER</a>  
+  - Author: <strong>Brian Lim</strong>  
   - Language/Tools: Markdown, HTML, and Jekyll
 
 </details>
