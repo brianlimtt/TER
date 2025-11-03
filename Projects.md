@@ -30,3 +30,32 @@ title: Projects
   - Language/Tools: Markdown, HTML, and Jekyll
 
 </details>
+
+
+
+
+<details style="border:1px solid #ddd; border-radius:10px; padding:15px; background-color:#fafafa; margin-bottom:15px;">
+  <summary style="font-size:18px; font-weight:bold; cursor:pointer;">
+    Anscombe's Quartet Analysis
+  </summary>
+
+  <br>
+
+  <strong>Anscombe's Quartet Analysis</strong><br>
+  This project required me to explore Anscombe’s Quartet to understand the importance of visualizing data alongside summary statistics.  
+  I learned how datasets with identical statistical properties can have very different distributions and trends.
+
+  <hr>
+
+  <strong>About the Project</strong><br>
+  This project was built using <strong>Python</strong> (pandas, matplotlib, seaborn) and visualized with interactive plots.  
+  The goal was to demonstrate why relying solely on mean, variance, and correlation can be misleading without graphical analysis.
+
+  <hr>
+
+  <strong>Repository Info</strong><br>
+  - GitHub Repo: <a href="https://github.com/your-username/anscombe-project" target="_blank">your-username/anscombe-project</a>  
+  - Author: <strong>Brian Lim</strong>  
+  - Language/Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
+</details>
