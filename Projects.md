@@ -62,7 +62,7 @@ title: Projects
   <hr>
 
   <strong>Repository Info</strong><br>
-  - GitHub Repo: <a href="https://github.com/brianlimtt/TER/tree/main/anscombe-eda" target="_blank">your-username/anscombe-project</a>  
+  - GitHub Repo: <a href="https://github.com/brianlimtt/TER/tree/main/anscombe-eda" target="_blank">Anscombe-Eda</a>  
   - Author: <strong>Brian Lim</strong>  
   - Language/Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
