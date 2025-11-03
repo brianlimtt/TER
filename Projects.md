@@ -52,6 +52,7 @@ title: Projects
   <strong>About the Project</strong><br>
   This project was built using <strong>Python</strong> (pandas, matplotlib, seaborn) and visualized with interactive plots.  
   The goal was to demonstrate why relying solely on mean, variance, and correlation can be misleading without graphical analysis.
+  
   You can find the original Jupyter notebook ipynb file by clicking this [link](https://github.com/brianlimtt/TER/blob/main/anscombe-eda/Anscombe_Quartet_Analysis.ipynb)
   
   You can find the pdf version by clicking this [link](https://github.com/brianlimtt/TER/blob/main/anscombe-eda/Anscombe_Quartet_Analysis.pdf)
