@@ -25,8 +25,10 @@ title: Projects
   <hr>
 
   <strong>Repository Info</strong><br>
-  - GitHub Repo: <a href="https://github.com/brianlimtt/TER" target="_blank">brianlimtt/TER</a>  
+  - GitHub Repo: <a href="https://github.com/brianlimtt/TER" target="_blank">brianlimtt/TER</a>
+    
   - Author: <strong>Brian Lim</strong>  
+  
   - Language/Tools: Markdown, HTML, and Jekyll
 
 </details>
@@ -53,6 +55,7 @@ title: Projects
   This project was built using <strong>Python</strong> (pandas, matplotlib, seaborn) and visualized with interactive plots.  
   The goal was to demonstrate why relying solely on mean, variance, and correlation can be misleading without graphical analysis.
   
+  
   You can find the original Jupyter notebook ipynb file by clicking this 
   <a href="https://github.com/brianlimtt/TER/blob/main/anscombe-eda/Anscombe_Quartet_Analysis.ipynb" target="_blank">link</a><br>
   You can find the pdf version by clicking this 
@@ -63,8 +66,10 @@ title: Projects
   <hr>
 
   <strong>Repository Info</strong><br>
-  - GitHub Repo: <a href="https://github.com/brianlimtt/TER/tree/main/anscombe-eda" target="_blank">Anscombe-Eda</a>  
+  - GitHub Repo: <a href="https://github.com/brianlimtt/TER/tree/main/anscombe-eda" target="_blank">Anscombe-Eda</a>
+    
   - Author: <strong>Brian Lim</strong>  
+  
   - Language/Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 </details>
