@@ -34,6 +34,8 @@ title: Projects
 
 
 
+
+
 <details style="border:1px solid #ddd; border-radius:10px; padding:15px; background-color:#fafafa; margin-bottom:15px;">
   <summary style="font-size:18px; font-weight:bold; cursor:pointer;">
     Anscombe's Quartet Analysis
@@ -50,6 +52,9 @@ title: Projects
   <strong>About the Project</strong><br>
   This project was built using <strong>Python</strong> (pandas, matplotlib, seaborn) and visualized with interactive plots.  
   The goal was to demonstrate why relying solely on mean, variance, and correlation can be misleading without graphical analysis.
+  You can find the original Jupyter notebook ipynb file by clicking this [link](https://github.com/brianlimtt/TER/blob/main/anscombe-eda/Anscombe_Quartet_Analysis.ipynb)
+  You can find the pdf version by clicking this [link](https://github.com/brianlimtt/TER/blob/main/anscombe-eda/Anscombe_Quartet_Analysis.pdf)
+  The interactive graph is included on this [link](https://brianlimtt.github.io/TER/anscombe-eda/anscombe_quartet.html)
 
   <hr>
 
