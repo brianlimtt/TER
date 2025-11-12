@@ -2,5 +2,9 @@ theme: minima
 title: TER
 description: Dediated to the TER course taken in Grade 11
 
-include:
-  - blog
+
+defaults:
+  - scope:
+      path: "blog"
+    values:
+      theme: jekyll-theme-cayman
