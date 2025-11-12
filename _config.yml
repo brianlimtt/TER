@@ -1,3 +1,6 @@
 theme: minima
 title: TER
 description: Dediated to the TER course taken in Grade 11
+
+include:
+  - blog
