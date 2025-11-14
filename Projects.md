@@ -57,11 +57,11 @@ title: Projects
   
   <br>
   You can find the original Jupyter notebook ipynb file by clicking this 
-  <a href="https://github.com/brianlimtt/TER/blob/main/anscombe-eda/Anscombe_Quartet_Analysis.ipynb" target="_blank">link</a><br>
+  <a href="https://github.com/brianlimtt/TER/blob/main/anscombe-eda/Anscombe_Quartet_Analysis.ipynb" target="_blank">link (ipynb)</a><br>
   You can find the pdf version by clicking this 
-  <a href="https://brianlimtt.github.io/TER/anscombe-eda/Anscombe_Quartet_Analysis.pdf" target="_blank">link</a><br>
+  <a href="https://brianlimtt.github.io/TER/anscombe-eda/Anscombe_Quartet_Analysis.pdf" target="_blank">link (pdf)</a><br>
   The interactive graph is included on this 
-  <a href="https://brianlimtt.github.io/TER/anscombe-eda/anscombe_quartet.html" target="_blank">link</a>
+  <a href="https://brianlimtt.github.io/TER/anscombe-eda/anscombe_quartet.html" target="_blank">link (html)</a>
 
   <hr>
 
@@ -93,6 +93,8 @@ title: Projects
 
   <strong>Repository Info</strong><br>
   - GitHub Repo: <a href="https://github.com/brianlimtt/TER-blog">brianlimtt/TER-blog</a><br>
+
+  - GitHub Page: <a href="https://brianlimtt.github.io/TER-blog/">Brian Lim's Blog</a><br>
     
   - Author: <strong>Brian Lim</strong><br>
   
