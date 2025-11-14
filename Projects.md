@@ -73,3 +73,29 @@ title: Projects
   - Language/Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook<br>
 
 </details>
+
+<details style="border:1px solid #ddd; border-radius:10px; padding:15px; background-color:#fafafa; margin-bottom:15px;">
+  <summary style="font-size:18px; font-weight:bold; cursor:pointer;">
+    EDA Blog Summary
+  </summary>
+
+  <br>
+
+  <strong>EDA Blog Summary</strong><br>
+  This assingment required me to read and review the blog on <a href="https://datascienceguide.github.io/exploratory-data-analysis" target="_blank">Exploratory Data Analysis</a>. 
+
+  <hr>
+
+  <strong>About the Project</strong><br>
+  This project required me to do something different. I wanted to use a different style for the blog site as the minima style that I have been using did not seem appropriate for a blog. I ended up creating a new repo with the    'tactile' theme as I believed it was better suited for a blog post. I formattd the home page, with a short introduction and table of contents that would lead into my blogs that I have posted. In the blog, I highlighted some key points that I found inside of the <a href="https://datascienceguide.github.io/exploratory-data-analysis" target="_blank">EDA</a> guide. I also made it so the table of contents was clickable, leading users to instantly jump to that section, saving time. 
+
+  <hr>
+
+  <strong>Repository Info</strong><br>
+  - GitHub Repo: <a href="https://github.com/brianlimtt/TER-blog">brianlimtt/TER-blog</a><br>
+    
+  - Author: <strong>Brian Lim</strong><br>
+  
+  - Language/Tools: Markdown, HTML, and Jekyll<br>
+
+</details>
