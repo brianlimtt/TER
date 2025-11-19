@@ -124,7 +124,7 @@ title: Projects
   <strong>Repository Info</strong><br>
   - Blog site: <a href="https://brianlimtt.github.io/TER-blog/">Brian Lim's Blog</a><br>
 
-  - Linear Regression Fix Blog: <a href="https://brianlimtt.github.io/TER-blog/blogs/2025-11-18-lin-reg-fix.html/">Fixing Linear Regression</a><br>
+  - Linear Regression Fix Blog: <a href="https://brianlimtt.github.io/TER-blog/blogs/2025-11-18-lin-reg-fix.html">Fixing Linear Regression</a><br>
     
   - Author: <strong>Brian Lim</strong><br>
   
