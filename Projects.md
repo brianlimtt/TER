@@ -101,3 +101,33 @@ title: Projects
   - Language/Tools: Markdown, HTML, and Jekyll<br>
 
 </details>
+
+
+
+<details style="border:1px solid #ddd; border-radius:10px; padding:15px; background-color:#fafafa; margin-bottom:15px;">
+  <summary style="font-size:18px; font-weight:bold; cursor:pointer;">
+    Fixing Linear Regression
+  </summary>
+
+  <br>
+
+  <strong>Fixing Linear Regression</strong><br>
+  This assingment required me to read and fix the repo created by Mr. Andrade that did not function.
+
+  <hr>
+
+  <strong>About the Project</strong><br>
+  This project focuses on understanding how linear regression works by fixing the broken regression example originally given by Mr. Andrade. The dataset he provided was correct, but the regression line wasn’t working properly because the code/model had several issues such as the formula not being applied correctly, the graph not updating with the actual coefficient, and the calculation for slope and intercept being misaligned. 
+
+  <hr>
+
+  <strong>Repository Info</strong><br>
+  - Blog site: <a href="https://github.com/brianlimtt/TER-blog">brianlimtt/TER-blog</a><br>
+
+  - Linear Regression Fix Blog: <a href="https://brianlimtt.github.io/TER-blog/blogs/2025-11-18-lin-reg-fix.html/">Fixing Linear Regression</a><br>
+    
+  - Author: <strong>Brian Lim</strong><br>
+  
+  - Language/Tools: Markdown, HTML, Jekyll, YAML, HTML, and CSS <br>
+
+</details>
