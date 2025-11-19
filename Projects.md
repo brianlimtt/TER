@@ -122,7 +122,7 @@ title: Projects
   <hr>
 
   <strong>Repository Info</strong><br>
-  - Blog site: <a href="https://github.com/brianlimtt/TER-blog">brianlimtt/TER-blog</a><br>
+  - Blog site: <a href="https://brianlimtt.github.io/TER/Blog.html">Brian Lim's Blog</a><br>
 
   - Linear Regression Fix Blog: <a href="https://brianlimtt.github.io/TER-blog/blogs/2025-11-18-lin-reg-fix.html/">Fixing Linear Regression</a><br>
     
