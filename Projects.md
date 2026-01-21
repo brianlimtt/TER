@@ -127,6 +127,9 @@ title: Projects
   - Linear Regression Fix Blog: <a href="https://brianlimtt.github.io/TER-blog/blogs/2025-11-18-lin-reg-fix.html">Fixing Linear Regression</a><br>
     
   - Author: <strong>Brian Lim</strong><br>
+
+
+  This page is no longer being consistently updated. To see the most recent work, see the blog page. 
   
   - Language/Tools: Markdown, HTML, Jekyll, YAML, HTML, and CSS <br>
 
